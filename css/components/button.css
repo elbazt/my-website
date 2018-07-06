@@ -1,0 +1,32 @@
+.btn-twitter {
+	color: white;
+	background: red;
+	box-shadow: 0 4px 6px rgba(50,50,93,.11);
+	border-radius: 5px;
+	font-weight: bold;
+	font-size: 14px
+	letter-spacing: 10px;
+	padding: 15px 20px;
+	transition: all 0.3s ease;
+}
+
+.btn-twitter:hover {
+	color: white;
+	background: black;
+	border-radius: 0px;
+}
+
+.btn-medium {
+	color: rgb(100,100,100);
+	background: transparent;
+	border-radius: 50px;
+	border: 1px solid rgb(200,200,200);
+	padding: 15px 20px;
+	opacity: 0.3;
+	transition: opacity 0.3s ease;
+}
+
+.btn-medium:hover {
+	color: rgb(100,100,100);
+	opacity: 1;
+}
